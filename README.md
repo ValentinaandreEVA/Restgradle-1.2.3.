@@ -22,3 +22,4 @@ given()
 .statusCode(200)
 .body(/* --> ваша проверка здесь <-- */)
 ;
+[![Java CI with Gradle](https://github.com/ValentinaandreEVA/Restgradle-1.2.3./actions/workflows/gradle.yml/badge.svg)](https://github.com/ValentinaandreEVA/Restgradle-1.2.3./actions/workflows/gradle.yml)
